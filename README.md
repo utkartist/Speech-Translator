@@ -43,14 +43,19 @@ User Prompts for Languages: Separate prompts for the primary and secondary langu
 Print Both Translations: Both translations are printed to the console.
 
 ## Applications:
-### Language Learning: This tool can assist in learning new languages by providing audio translations.
+### Language Learning: 
+This tool can assist in learning new languages by providing audio translations.
 
-### Travel Assistance: It can be used by travelers to communicate in different languages.
+### Travel Assistance: 
+It can be used by travelers to communicate in different languages.
 
-### Accessibility: The tool can help people with speech or language impairments to communicate more effectively.
+### Accessibility:
+The tool can help people with speech or language impairments to communicate more effectively.
 
-### Multilingual Customer Support: Businesses can use it to provide customer support in multiple languages.
+### Multilingual Customer Support:
+Businesses can use it to provide customer support in multiple languages.
 
-### Educational Tools: It can be integrated into educational platforms to support multilingual education.
+### Educational Tools: 
+It can be integrated into educational platforms to support multilingual education.
 
 Overall, the script seamlessly integrates voice recognition, translation, text-to-speech conversion, and audio playback to provide a complete voice translation experience.
