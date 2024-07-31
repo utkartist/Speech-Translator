@@ -1,4 +1,4 @@
-# Help regarding Virtual Environment and requirement.txt file
+# Help regarding Virtual Environment and requirement.txt file :
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -27,14 +27,16 @@ To create a virtual environment, follow these steps:
    python -m venv myenv
    myenv can be replaced by environment name of your choice.
 4. Activate the virtual environment:
-   On Windows:
+   #### On Windows:
+   
    myenv\Scripts\activate
-   On macOS and Linux:
+   #### On macOS and Linux:
+   
    myenv/bin/activate
 
 ### Installing Dependencies:
 
-Once the virtual environment is activated, install the required packages using requirements.txt:
+Once the virtual environment is activated, install the required packages using requirements.txt
 
 Ensure you are in the project directory.
 
@@ -46,7 +48,6 @@ Once the virtual environment is activated, install the required packages using r
 
 
 ## Usage:
-Provide instructions on how to run and use your project. Include examples if necessary.
 
 ### Example command to run the project:
 python main.py
