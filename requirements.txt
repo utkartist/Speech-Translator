@@ -1,0 +1,10 @@
+playsound
+SpeechRecognition
+googletrans
+gTTs
+gTTS-token
+pygame
+PyAudio
+translate
+deep-translator
+pandas
