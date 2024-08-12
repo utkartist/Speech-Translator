@@ -1,4 +1,4 @@
-# speech-translator-using-llms
+# SPEECH TRANSLATOR
 This script is a voice translation program that captures spoken input, translates it into specified languages, and then converts the translated text into speech. Here's a step-by-step breakdown of the code's functionality:
 
 ## Initialization and Imports:
