@@ -50,5 +50,5 @@ Once the virtual environment is activated, install the required packages using r
 ## Usage:
 
 ### Example command to run the project:
-python main.py
+python appli.py
 
